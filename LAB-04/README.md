@@ -138,9 +138,9 @@ Concepts Covered:
 ---
 
 ## 👤 Student Details
-- **Name:** Alok Kumar  
-- **Roll No:** 23425
-- **Reg. No:** 23105128017
+- **Name:** Shweta kumari  
+- **Roll No:** 23444
+- **Reg. No:** 23105128035
 - **Branch :** CSE 
 - **College:** BPMCE,Madhepura 
 - **Session:** 2023–2027  
